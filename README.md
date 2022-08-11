@@ -10,7 +10,7 @@ for the following operations:
 ### Installation
 
 ```
-go get github.com/yanue/starkex
+go get github.com/hedgedon/starkex
 ```
 
 ### demos
